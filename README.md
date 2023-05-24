@@ -79,8 +79,6 @@ dt.predict([[5,6]])
 
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](5.png)
 
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](6.png)
-
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](7.png)
 
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](8.png)
