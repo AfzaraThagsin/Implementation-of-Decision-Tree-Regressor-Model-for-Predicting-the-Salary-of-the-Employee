@@ -70,12 +70,19 @@ dt.predict([[5,6]])
 
 ## Output:
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](1.png)
+
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](2.png)
+
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](3.png)
+
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](4.png)
+
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](5.png)
+
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](6.png)
+
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](7.png)
+
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](8.png)
 
 
